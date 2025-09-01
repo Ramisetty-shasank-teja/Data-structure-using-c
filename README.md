@@ -5,7 +5,7 @@ Welcome to my repository for **Data Structure implementations in C**. This proje
 ## 📦 Topics Covered 
 
 - ✅ Singly Linked List  
-- ✅ Doubly Linked List  
+- ✅ Doubly Linked List    
 - ✅ Circular Linked List  
 - ✅ Stack (Array & Linked List)  
 - ✅ Queue (Array, Circular, Linked List)  
